@@ -1,2 +1,2 @@
-# Whatsapp Application System Desigin
+# Whatsapp System Desigin
 ![alt text](block_diagram.png)
